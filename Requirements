@@ -3,7 +3,7 @@ School Management System
 Requirement for School Management System as bellow:
 To manage a School System, there is some important aspects in this School system:
 School,Teacher, Students, Classes, Subjects, Stuffs, Exams.
-School: has Name, Address,manager,manager_start_date and teacher works at school.
+School: has Name, Address and have a manager to manage School and teachers works at school.
 Teachers: have name, F/name, SSN, Salary, uniquely ID number, Phone Number, Gender, Address, and teachers teaches to Students a specific Subjects.
 Students: have Name, F/name, SSN, Gender, uniquely ID number, Address, Phone Number, fee, and each student have dependents and dependents have name, uniquely ID number, Phone number.
 Classes have Name, uniquely ID number, class grade.
